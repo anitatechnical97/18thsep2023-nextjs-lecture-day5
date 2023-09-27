@@ -3,11 +3,21 @@ header {
   height: 140px;
   background-color: #0D7962;
   border: 1px dashed red;
+  margin: auto;
+}
+
+main {
+  width: 980px;
+  height: 450px;
+  background-color: #0D7962;
+  border: 1px dashed #000;
+  margin: auto;
 }
 
 footer {
   width: 980px;
   height: 70px;
   background-color: #0D7962;
-  border: 1px dashed #000
+  border: 1px dashed #000;
+  margin: auto;
 }
