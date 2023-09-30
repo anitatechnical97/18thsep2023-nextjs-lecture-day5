@@ -1,17 +1,40 @@
+
+
 header {
   width: 980px;
   height: 140px;
   background-color: #0D7962;
   border: 1px dashed red;
   margin: auto;
+  color: #fff;
 }
 
 main {
   width: 980px;
   height: 450px;
-  background-color: #0D7962;
+  /* background-color: #0D7962; */
   border: 1px dashed #000;
   margin: auto;
+  color: #fff;
+}
+
+aside {
+  width: 270px;
+  height: 450px;
+  background-color: #0D7962;
+  border: 1px dashed #000;
+  float: left;
+  margin-right: 15px;
+  color: #fff;
+}
+
+section {
+  width: 690px;
+  height: 450px;
+  background-color: #0D7962;
+  border: 1px dashed #000;
+  float: left;
+  color: #fff;
 }
 
 footer {
@@ -20,4 +43,5 @@ footer {
   background-color: #0D7962;
   border: 1px dashed #000;
   margin: auto;
+  color: #fff;
 }

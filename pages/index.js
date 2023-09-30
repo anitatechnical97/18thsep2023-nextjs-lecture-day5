@@ -16,11 +16,13 @@ import styles from '../styles/Home.module.css'
         <title> Welcome to my first nextjs project </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <header></header>
+      <header>Header Component</header>
       <main>
+        <aside>Aside Component </aside>
+        <section>Section Component </section>
       </main>
 
-      <footer> </footer>
+      <footer>Footer Component </footer>
     </>
   )
 }
